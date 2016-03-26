@@ -1,6 +1,6 @@
 {
   "name": "bet-ajax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "BETool ajax",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/BETool/bet-ajax#readme",
   "dependencies": {
-    "bet-logger": "^0.0.2",
-    "bet-seed": "^0.0.1",
+    "bet-logger": "latest",
+    "bet-seed": "latest",
     "es6-promise": "^3.1.2",
     "isomorphic-fetch": "^2.2.1"
   }
